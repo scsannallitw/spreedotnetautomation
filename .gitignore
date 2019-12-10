@@ -1,0 +1,9 @@
+# OSX
+.DS_Store
+
+#
+*.idea
+*.swp
+
+SpreeAutomaion/bin/**
+SpreeAutomation/obj/**
