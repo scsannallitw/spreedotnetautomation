@@ -19,7 +19,6 @@
     <ItemGroup>
       <Folder Include="configs" />
       <Folder Include="data" />
-      <Folder Include="pageObjects" />
       <Folder Include="utils" />
     </ItemGroup>
 
